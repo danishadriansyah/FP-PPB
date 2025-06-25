@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_logo_desc">VeggieVision Logo</string>
+    <string name="top_photo_desc">Foto header aplikasi</string>
+    <string name="capture_button_desc">Ambil Gambar</string>
+    <string name="gallery_button_desc">Buka Gallery</string>
+    <string name="flash_button_desc">Nyalakan/Matikan Flash</string>
+    <string name="retake_desc">Nyalakan/Matikan Flash</string>
+    <string name="detection_prompt">Arahkan kamera ke sayuran untuk mendeteksi</string>
+    <string name="gallery_desc">Buka galeri</string>
+    <string name="capture_desc">Ambil foto</string>
+    <string name="flash_desc">Nyalakan flash</string>
+
+</resources>
